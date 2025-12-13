@@ -1,3 +1,5 @@
+//tava testando os codigos aq!!!!
+
 const num1 = Number(prompt("Primeiro numero"))
 const num2 = Number(prompt("Segundo numero"))
 
